@@ -97,9 +97,11 @@ This is the practice module where the solution should be written. There the foll
   [Task 7](https://it-skills-exchange.github.io/jacademy-practice/ "Task 7"),
   [Task 8](https://it-skills-exchange.github.io/jacademy-practice/ "Task 8"),
   [Task 9](https://it-skills-exchange.github.io/jacademy-practice/ "Task 9").
+
 * Search Algorithms:
   [Task 10](https://it-skills-exchange.github.io/jacademy-practice/ "Task 10"),
   [Task 11](https://it-skills-exchange.github.io/jacademy-practice/ "Task 11").
+
 * Other Algorithms:
   [Task 12](https://it-skills-exchange.github.io/jacademy-practice/ "Task 12").
 
